@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Food by Nutritionix</string>
+    <string name="enter_text_description">Enter the name of a food item in the field below to find out its nutritional values</string>
+    <string name="edit_text_hint">I am looking for:</string>
+    <string name="search">Search</string>
+    <string name="no_Internet">There is no Internet connection.</string>
+    <string name="nutrition_facts">Nutrition Facts</string>
+    <string name="calories">Calories</string>
+    <string name="total_fat">Total fat</string>
+    <string name="saturated_fat">Saturated fat</string>
+    <string name="sodium">Sodium</string>
+    <string name="total_carbohydrates">Total carbohydrates</string>
+    <string name="dietary_fibers">Dietary fibers</string>
+    <string name="sugars">Sugars</string>
+    <string name="protein">Protein</string>
+    <string name="serving_unit">Serving unit</string>
+</resources>
